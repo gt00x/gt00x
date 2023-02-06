@@ -1,0 +1,11 @@
+  575  git merge origin/main
+  576  git add --all
+  578  git commit -m "Firearms added"
+  579  git push -u origin main
+  581  cd ../gt00x/
+  582  git status
+  583  git fetch origin
+  584  git merge origin/main
+  585  git add --all
+  586  git commit -m "gems date converter added"
+  587  git push -u origin main
